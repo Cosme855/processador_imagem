@@ -7,6 +7,6 @@ Pacote Python desenvolvido para realizar operações básicas e operacionais de 
 - **Transformação**: Redimensionamento, conversão para escala de cinzento e rotação.
 
 ## 📦 Instalação
-Pode instalar o pacote localmente clonando o repositório e executando:
+Para instalar o pacote localmente clonando o repositório e executando:
 ```bash
-pip install .
+pip install processador-imagens-cosme
