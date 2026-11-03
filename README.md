@@ -1,6 +1,6 @@
 # Processador de Imagens
 
-Pacote Python desenvolvido para realizar operações básicas e operacionais de manipulação de imagens, criado como parte dos desafios de engenharia de software da DIO.
+Pacote Python desenvolvido para realizar operações básicas e operacionais de manipulação de imagens
 
 ## 🚀 Funcionalidades
 - **Combinação**: Mistura e sobreposição de imagens.
